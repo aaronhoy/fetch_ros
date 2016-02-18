@@ -1,7 +1,7 @@
 image: speedlimit.png
 negate: 0
-trinary: false
-free_thresh: 0.05
-occupied_thresh: 0.95
+mode: raw
 origin: [0.0, 0.0, 0.0]
 resolution: 0.05
+occupied_thresh: 1.0
+free_thresh: 0.0
